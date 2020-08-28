@@ -10,9 +10,9 @@ PT100-Sensors are temperature-related resistors. By reading the voltage, resista
 
 
 <p float="left">
-  <img src="/resources/00_PT100_intro-logo.jpg" />
-  <img src="/resources/00_PT100_intro-description.jpg" /> 
-  <img src="/resources/00_PT100_sensor-reading.jpg" />
+  <img src="/resources/00_PT100_intro-logo.jpg" width="100" />
+  <img src="/resources/00_PT100_intro-description.jpg" width="100" /> 
+  <img src="/resources/00_PT100_sensor-reading.jpg" width="100" />
 </p>
 
 
