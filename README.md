@@ -8,6 +8,16 @@ PT100-Sensors are temperature-related resistors. By reading the voltage, resista
 
 <img src="/resources/00_PT100_sensor-reading.jpg" width="256" height="256" title="Github Logo">
 
+
+<p float="left">
+  <img src="/resources/00_PT100_intro-logo.jpg" />
+  <img src="/resources/00_PT100_intro-description.jpg" /> 
+  <img src="/resources/00_PT100_sensor-reading.jpg" />
+</p>
+
+
+
+
 ### Wiring
 
 Fritzing
