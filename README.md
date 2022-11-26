@@ -15,6 +15,8 @@ PT100-Sensors are temperature-related resistors. By reading the voltage, resista
 ### Wiring
 
 Fritzing
-
+<p float="left">
+  <img src="/resources/Sketch_Schaltplan.png" width="600" />
+</p>
 
 ![FontTool](https://github.com/squix78/esp8266-oled-ssd1306/raw/master/resources/FontTool.png)
